@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32526.322
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NotePad clone", "NotePad clone\NotePad clone.csproj", "{B7E6A02F-8A2C-4C5C-B835-C3101A44D557}"
+EndProject
+Project("{840C416C-B8F3-42BC-B0DD-F6BB14C9F8CB}") = "Setup", "Setup\Setup.aiproj", "{7B49C2E8-2791-480D-BE91-EBB2CF47DA6C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		DefaultBuild|Any CPU = DefaultBuild|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B7E6A02F-8A2C-4C5C-B835-C3101A44D557}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7E6A02F-8A2C-4C5C-B835-C3101A44D557}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7E6A02F-8A2C-4C5C-B835-C3101A44D557}.DefaultBuild|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7E6A02F-8A2C-4C5C-B835-C3101A44D557}.DefaultBuild|Any CPU.Build.0 = Debug|Any CPU
+		{B7E6A02F-8A2C-4C5C-B835-C3101A44D557}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7E6A02F-8A2C-4C5C-B835-C3101A44D557}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B49C2E8-2791-480D-BE91-EBB2CF47DA6C}.Debug|Any CPU.ActiveCfg = DefaultBuild
+		{7B49C2E8-2791-480D-BE91-EBB2CF47DA6C}.Debug|Any CPU.Build.0 = DefaultBuild
+		{7B49C2E8-2791-480D-BE91-EBB2CF47DA6C}.DefaultBuild|Any CPU.ActiveCfg = DefaultBuild
+		{7B49C2E8-2791-480D-BE91-EBB2CF47DA6C}.DefaultBuild|Any CPU.Build.0 = DefaultBuild
+		{7B49C2E8-2791-480D-BE91-EBB2CF47DA6C}.Release|Any CPU.ActiveCfg = DefaultBuild
+		{7B49C2E8-2791-480D-BE91-EBB2CF47DA6C}.Release|Any CPU.Build.0 = DefaultBuild
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FAAD606E-3B51-4E13-8986-104EEA908A07}
+	EndGlobalSection
+EndGlobal

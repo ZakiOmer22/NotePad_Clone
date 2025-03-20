@@ -1,0 +1,32 @@
+C:\Users\zakio\Music\NotePad-clone-master\NotePad clone\bin\Debug\NotePad clone.exe.config
+C:\Users\zakio\Music\NotePad-clone-master\NotePad clone\bin\Debug\NotePad clone.exe
+C:\Users\zakio\Music\NotePad-clone-master\NotePad clone\bin\Debug\NotePad clone.pdb
+C:\Users\zakio\Music\NotePad-clone-master\NotePad clone\obj\Debug\NotePad clone.csproj.AssemblyReference.cache
+C:\Users\zakio\Music\NotePad-clone-master\NotePad clone\obj\Debug\MainWindow.g.cs
+C:\Users\zakio\Music\NotePad-clone-master\NotePad clone\obj\Debug\App.g.cs
+C:\Users\zakio\Music\NotePad-clone-master\NotePad clone\obj\Debug\NotePad clone_MarkupCompile.cache
+C:\Users\zakio\Music\NotePad-clone-master\NotePad clone\obj\Debug\NotePad clone_MarkupCompile.lref
+C:\Users\zakio\Music\NotePad-clone-master\NotePad clone\obj\Debug\App.baml
+C:\Users\zakio\Music\NotePad-clone-master\NotePad clone\obj\Debug\MainWindow.baml
+C:\Users\zakio\Music\NotePad-clone-master\NotePad clone\obj\Debug\NotePad clone.g.resources
+C:\Users\zakio\Music\NotePad-clone-master\NotePad clone\obj\Debug\NotePad_clone.Properties.Resources.resources
+C:\Users\zakio\Music\NotePad-clone-master\NotePad clone\obj\Debug\NotePad clone.csproj.GenerateResource.cache
+C:\Users\zakio\Music\NotePad-clone-master\NotePad clone\obj\Debug\NotePad clone.csproj.CoreCompileInputs.cache
+C:\Users\zakio\Music\NotePad-clone-master\NotePad clone\obj\Debug\NotePad clone.exe
+C:\Users\zakio\Music\NotePad-clone-master\NotePad clone\obj\Debug\NotePad clone.pdb
+C:\Users\zakio\Music\NotePad_clone\NotePad clone\bin\Debug\NotePad clone.exe.config
+C:\Users\zakio\Music\NotePad_clone\NotePad clone\bin\Debug\NotePad clone.exe
+C:\Users\zakio\Music\NotePad_clone\NotePad clone\bin\Debug\NotePad clone.pdb
+C:\Users\zakio\Music\NotePad_clone\NotePad clone\obj\Debug\NotePad clone.csproj.AssemblyReference.cache
+C:\Users\zakio\Music\NotePad_clone\NotePad clone\obj\Debug\MainWindow.g.cs
+C:\Users\zakio\Music\NotePad_clone\NotePad clone\obj\Debug\App.g.cs
+C:\Users\zakio\Music\NotePad_clone\NotePad clone\obj\Debug\NotePad clone_MarkupCompile.cache
+C:\Users\zakio\Music\NotePad_clone\NotePad clone\obj\Debug\NotePad clone_MarkupCompile.lref
+C:\Users\zakio\Music\NotePad_clone\NotePad clone\obj\Debug\App.baml
+C:\Users\zakio\Music\NotePad_clone\NotePad clone\obj\Debug\MainWindow.baml
+C:\Users\zakio\Music\NotePad_clone\NotePad clone\obj\Debug\NotePad clone.g.resources
+C:\Users\zakio\Music\NotePad_clone\NotePad clone\obj\Debug\NotePad_clone.Properties.Resources.resources
+C:\Users\zakio\Music\NotePad_clone\NotePad clone\obj\Debug\NotePad clone.csproj.GenerateResource.cache
+C:\Users\zakio\Music\NotePad_clone\NotePad clone\obj\Debug\NotePad clone.csproj.CoreCompileInputs.cache
+C:\Users\zakio\Music\NotePad_clone\NotePad clone\obj\Debug\NotePad clone.exe
+C:\Users\zakio\Music\NotePad_clone\NotePad clone\obj\Debug\NotePad clone.pdb
